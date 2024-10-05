@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Seokkwang</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Welcome to my page</h1>
+<h3 align="center">Hi 👋, I'm Seokkwang</h3>
+
+- 👨‍💻 All of my projects are available at [https://www.notion.so/3a7523d5d5ce48368884b4263bebdc07?pvs=4](https://www.notion.so/3a7523d5d5ce48368884b4263bebdc07?pvs=4)
+
+- 💬 Ask me about **Airflow, Spark**
+
+- 📫 How to reach me **tjrrhkd623@naver.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
